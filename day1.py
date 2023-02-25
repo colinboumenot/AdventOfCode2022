@@ -1,6 +1,6 @@
 def main():
-    part_one_text = open('day1input.txt', 'r')
-    part_two_text = open('day1input.txt', 'r')
+    part_one_text = open('inputtxt/day1input.txt', 'r')
+    part_two_text = open('inputtxt/day1input.txt', 'r')
     part_one(part_one_text)
     part_two(part_two_text)
 
