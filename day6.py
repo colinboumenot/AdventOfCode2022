@@ -19,5 +19,6 @@ def part_two(text_file):
         if len(set(y)) == 14:
             print(x)
             return
+
 if __name__ == "__main__":
     main()
